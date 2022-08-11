@@ -1,5 +1,5 @@
 {
-  "name": "react-hls-player",
+  "name": "@little-core-labs/react-hls-player",
   "version": "3.0.7",
   "description": "A simple and easy to use react component for playing an hls live stream",
   "main": "./dist/index.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devcshort/react-hls.git"
+    "url": "git+https://github.com/little-core-labs/react-hls.git"
   },
   "keywords": [
     "hls",
@@ -24,9 +24,9 @@
   "author": "Christopher Short",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/devcshort/react-hls/issues"
+    "url": "https://github.com/little-core-labs/react-hls/issues"
   },
-  "homepage": "https://github.com/devcshort/react-hls#README",
+  "homepage": "https://github.com/little-core-labs/react-hls#README",
   "dependencies": {
     "hls.js": "^0.14.17"
   },
